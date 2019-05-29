@@ -1,4 +1,4 @@
-# hackerrank-scraper
+# Hackerrank Scraper Tool for contest creators
 Hackerrank scraper is a simple tool written in node js to scrap the code submitted during a contest. This tool is meant for contest creators who want to download the submitted code and run plagiarism test on the code.
 
 # Steps to reproduce
