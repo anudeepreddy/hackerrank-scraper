@@ -15,3 +15,5 @@ Hackerrank scraper is a simple tool written in node js to scrap the code submitt
 <img src="carbon.png"
      alt="Place the above parameters here"
      style="float: left; margin-right: 10px;" />
+     
+#### Note: The **cookie** and **X-CSRF-Token** are used for authentication ####
